@@ -48,7 +48,7 @@ The system operates in four distinct software modes, navigated seamlessly throug
    * `NewPing.h`
 
 3. **Flashing the Controller:**
-   * Open `3_IN_ONE.ino` in your Arduino IDE.
+   * Open `SecureSwitch.ino` in your Arduino IDE.
    * Verify and upload the sketch to your Arduino Uno board.
 
 ## Project Contributors
